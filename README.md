@@ -15,8 +15,7 @@ pip install requests tqdm beautifulsoup4
 
 How to Use:
 1.Prepare your wordlist (.txt) Save it as wordlist.txt (or any name)
-
-2. Run the script
+2. Run the script:
 python3 D.py https://targetwebsite.com/ -w wordlist.txt -t 50 -o results.txt 
 or:
 python D.py https://targetwebsite.com/ -w wordlist.txt -t 50 -o results.txt
