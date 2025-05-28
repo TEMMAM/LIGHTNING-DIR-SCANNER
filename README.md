@@ -22,6 +22,7 @@ python3 D.py https://targetwebsite.com/ -w wordlist.txt -t 50 -o results.txt
 or:
 
 python D.py https://targetwebsite.com/ -w wordlist.txt -t 50 -o results.txt
+
 ----------------------------------------
 ----------------------------------------
 Arguments:
